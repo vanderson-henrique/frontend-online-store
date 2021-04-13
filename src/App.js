@@ -9,10 +9,10 @@ class App extends React.Component {
     return (
       <BrowserRouter>
         <Switch>
-          <Route exact path="/" component={ InitialScreen } />
-          <Route exact path="/kart" component={ Kart } />
-          <Route exact path="/detail/:id" component={ ProductDetail } />
-          <Route exact path="/pay" component={ PayProductList } />
+          <Route exact path="/frontend-online-store" component={ InitialScreen } />
+          <Route exact path="/frontend-online-store/kart" component={ Kart } />
+          <Route exact path="/frontend-online-store/detail/:id" component={ ProductDetail } />
+          <Route exact path="/frontend-online-store/pay" component={ PayProductList } />
         </Switch>
       </BrowserRouter>
     );
