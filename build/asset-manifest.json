@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/frontend-online-store/static/css/main.bc0ba610.chunk.css",
+    "main.js": "/frontend-online-store/static/js/main.12c87de8.chunk.js",
+    "main.js.map": "/frontend-online-store/static/js/main.12c87de8.chunk.js.map",
+    "runtime-main.js": "/frontend-online-store/static/js/runtime-main.d0c050e9.js",
+    "runtime-main.js.map": "/frontend-online-store/static/js/runtime-main.d0c050e9.js.map",
+    "static/js/2.6d404e39.chunk.js": "/frontend-online-store/static/js/2.6d404e39.chunk.js",
+    "static/js/2.6d404e39.chunk.js.map": "/frontend-online-store/static/js/2.6d404e39.chunk.js.map",
+    "index.html": "/frontend-online-store/index.html",
+    "precache-manifest.bd859efa3e1c02c63b086ebca4e82c28.js": "/frontend-online-store/precache-manifest.bd859efa3e1c02c63b086ebca4e82c28.js",
+    "service-worker.js": "/frontend-online-store/service-worker.js",
+    "static/css/main.bc0ba610.chunk.css.map": "/frontend-online-store/static/css/main.bc0ba610.chunk.css.map",
+    "static/js/2.6d404e39.chunk.js.LICENSE.txt": "/frontend-online-store/static/js/2.6d404e39.chunk.js.LICENSE.txt",
+    "static/media/Logo.svg": "/frontend-online-store/static/media/Logo.c77a1b60.svg",
+    "static/media/kart.svg": "/frontend-online-store/static/media/kart.af5956c4.svg",
+    "static/media/lupa-black.svg": "/frontend-online-store/static/media/lupa-black.a529e5ae.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0c050e9.js",
+    "static/js/2.6d404e39.chunk.js",
+    "static/css/main.bc0ba610.chunk.css",
+    "static/js/main.12c87de8.chunk.js"
+  ]
+}
