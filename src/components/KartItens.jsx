@@ -24,7 +24,7 @@ class KartItens extends React.Component {
         <Link
           data-testid="checkout-products"
           className="button-link"
-          to="/pay"
+          to="/frontend-online-store/pay"
         >
           Finalizar Compra
         </Link>

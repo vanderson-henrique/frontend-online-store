@@ -32,7 +32,7 @@ class ProductCard extends React.Component {
     const subtitle = title.substring(indexOne, indexTwo);
     return (
       <div className="product-card">
-        <Link data-testid="product-detail-link" to={ `/detail/${subtitle}` }>
+        <Link data-testid="product-detail-link" to={ `/frontend-online-store/detail/${subtitle}` }>
           <div data-testid="product" className="product-card-body">
             <img src={ thumbnail } alt="Imagem do produto" className="product-card-img" />
             <h4 className="product-card-title">{title}</h4>

@@ -10,7 +10,7 @@ class Header extends React.Component {
     const { searchInput, onInputSearchChange, buttonSearch, qttItemsKart } = this.props;
     return (
       <header className="online-store-header">
-        <Link to="/">
+        <Link to="/frontend-online-store">
           <img src={ LogoImg } alt="Imagem da Logo" />
         </Link>
         <SearchInput
@@ -18,7 +18,7 @@ class Header extends React.Component {
           onInputSearchChange={ onInputSearchChange }
           buttonSearch={ buttonSearch }
         />
-        <Link data-testid="shopping-cart-button" to="/kart">
+        <Link data-testid="shopping-cart-button" to="/frontend-online-store/kart">
           <div className="qtt-items-kart">
             <img src={ KartImg } className="kart-icon" alt="Botão carrinho de compras" />
             <div

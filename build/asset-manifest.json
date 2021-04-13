@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/frontend-online-store/static/css/main.bc0ba610.chunk.css",
-    "main.js": "/frontend-online-store/static/js/main.3a4c2910.chunk.js",
-    "main.js.map": "/frontend-online-store/static/js/main.3a4c2910.chunk.js.map",
+    "main.js": "/frontend-online-store/static/js/main.65008554.chunk.js",
+    "main.js.map": "/frontend-online-store/static/js/main.65008554.chunk.js.map",
     "runtime-main.js": "/frontend-online-store/static/js/runtime-main.d0c050e9.js",
     "runtime-main.js.map": "/frontend-online-store/static/js/runtime-main.d0c050e9.js.map",
     "static/js/2.ea208aba.chunk.js": "/frontend-online-store/static/js/2.ea208aba.chunk.js",
     "static/js/2.ea208aba.chunk.js.map": "/frontend-online-store/static/js/2.ea208aba.chunk.js.map",
     "index.html": "/frontend-online-store/index.html",
-    "precache-manifest.33221acc0b1fdc23de826d7e1d641141.js": "/frontend-online-store/precache-manifest.33221acc0b1fdc23de826d7e1d641141.js",
+    "precache-manifest.6c6fe975e2d02a45025138cfcb443c4f.js": "/frontend-online-store/precache-manifest.6c6fe975e2d02a45025138cfcb443c4f.js",
     "service-worker.js": "/frontend-online-store/service-worker.js",
     "static/css/main.bc0ba610.chunk.css.map": "/frontend-online-store/static/css/main.bc0ba610.chunk.css.map",
     "static/js/2.ea208aba.chunk.js.LICENSE.txt": "/frontend-online-store/static/js/2.ea208aba.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.d0c050e9.js",
     "static/js/2.ea208aba.chunk.js",
     "static/css/main.bc0ba610.chunk.css",
-    "static/js/main.3a4c2910.chunk.js"
+    "static/js/main.65008554.chunk.js"
   ]
 }
